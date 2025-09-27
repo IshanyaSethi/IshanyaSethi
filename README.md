@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @IshanyaSethi
-- 👀 I’m interested in ........
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ishanyasethi06.is@gmail.com
 
